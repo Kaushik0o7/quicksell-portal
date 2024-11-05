@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quicksell-portal/static/css/main.4bded8d9.css",
+    "main.js": "/quicksell-portal/static/js/main.fabff4b1.js",
+    "static/media/Display.svg": "/quicksell-portal/static/media/Display.0168095040354204011b596e30abf32e.svg",
+    "static/media/Img - High Priority.svg": "/quicksell-portal/static/media/Img - High Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "index.html": "/quicksell-portal/index.html",
+    "main.4bded8d9.css.map": "/quicksell-portal/static/css/main.4bded8d9.css.map",
+    "main.fabff4b1.js.map": "/quicksell-portal/static/js/main.fabff4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bded8d9.css",
+    "static/js/main.fabff4b1.js"
+  ]
+}
